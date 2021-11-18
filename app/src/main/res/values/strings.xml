@@ -5,4 +5,22 @@
     <string name="teachers_view">Преподаватели</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="performance">Успеваемость</string>
+    <string name="schedule">Расписание</string>
+    <string name="push">Уведомления</string>
+    <string name="about">О нас</string>
+    <string name="project1">FTP клиент (предлагаемая реализация:web, CLI или десктопное приложение). Постройтепростой FTP-клиент. В качестве дополнительнойзадачи сделайте поддержку безопасной передачифайлов (secure file transfer).</string>
+    <string name="project2">HTTP-сервер (предлагаемая реализация: любой язык программирования, над которым вы хотите поработать). Для глубокого понимания HTTP постройте HTTP-сервер. Есть много доступных руководств, которые могут помочь вам в этом процессе.</string>
+    <string name="project10">ПРОЕКТ №1 : FTP клиент (предлагаемая реализация: web, CLI или десктопное приложение). Постройте простой FTP-клиент. В качестве дополнительной задачи сделайте поддержку безопасной передачи файлов (secure file transfer).</string>
+    <string name="project20">ПРОЕКТ №2 : HTTP-сервер (предлагаемая реализация: любой язык программирования, над которым вы хотите поработать). Для глубокого понимания HTTP постройте HTTP-сервер. Есть много доступных руководств, которые могут помочь вам в этом процессе.</string>
+    <string name="project30">ПРОЕКТ №3 : Постройте веб-скрапер (предлагаемая реализация: любой язык программирования, над которым вы хотите поработать). Создайте инструмент, принимающий URL в качестве input и возвращающий контент в виде HTML или XML.</string>
+    <string name="project40">ПРОЕКТ №4 : Осуществление шифрования (предлагаемая реализация: любой язык программирования, над которым вы хотите поработать). Создайте инструмент, принимающий текстовую строку в качестве input и зашифровывающий ее, например, с помощью шифра Цезаря.</string>
+    <string name="project50">ПРОЕКТ №5 : Обои рабочего стола (предлагаемая реализация: Unsplash API, язык сценариев для вашей ОС). Постройте приложение, которое будет ежедневно обновлять обои вашего рабстола.</string>
+    <string name="sony">Make.Believe</string>
+    <string name="samsung">Turn on tomorrow</string>
+    <string name="apple">Think different</string>
+    <string name="Microsoft">Your potential. Our Passion</string>
+    <string name="description">подробно</string>
+    <string name="full_description">Автор и идейный вдохновитель: \nНовопашенный Максим Витальевич\nКопипаст (и надеюсь будующий программист):\nАзат Сагитов\nСоздано 19.11.2021</string>
+    <string name="microsoft">Your potential. Our passion</string>
 </resources>

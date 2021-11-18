@@ -5,5 +5,6 @@ data class TeachersAttributs(
     val description: String,
     val name: String,
     val age: Int,
-    val email: String
+    val email: String,
+    val profArt: String
 )

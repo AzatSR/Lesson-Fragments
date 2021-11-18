@@ -3,9 +3,9 @@
     <item
         android:id="@+id/student_list"
         android:title="@string/students_view"
-        android:icon="@drawable/students_icon"/>
+        android:icon="@drawable/teachers_icon"/>
     <item
         android:id="@+id/teachers_list"
         android:title="@string/teachers_view"
-        android:icon="@drawable/teachers_icon"/>
+        android:icon="@drawable/students_icon"/>
 </menu>

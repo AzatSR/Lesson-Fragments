@@ -14,11 +14,13 @@ class TeachersHolder(itemView: View) :RecyclerView.ViewHolder(itemView) {
         val teachersName: TextView = itemView.findViewById(R.id.name_text_view)
         val teachersAge: TextView = itemView.findViewById(R.id.age_text_view)
         val teachersEmail: TextView = itemView.findViewById(R.id.email_text_view)
+        val teacherProfArt: TextView = itemView.findViewById(R.id.prof_text_view)
 
         teachersImage.setImageDrawable(itemView.context.getDrawable(teachers.imageRes))
         teachersDescription.text = teachers.description
         teachersName.text = "Фамилия: ${teachers.name}"
         teachersAge.text = "Возраст: ${teachers.age}"
         teachersEmail.text = "Email: ${teachers.email}"
+        teacherProfArt.text = "Специальность: \n${teachers.profArt}"
     }
 }

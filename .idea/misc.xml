@@ -3,12 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/drawable/back_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/drawable/info_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/drawable/teachers_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/drawable/team_writer_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/activity_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/activity_third.xml" value="0.264" />
         <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/fragment_students.xml" value="0.253125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/fragment_teachers.xml" value="0.253125" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/students_list_view.xml" value="0.17255434782608695" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/menu/app_menu.xml" value="0.253125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/navigation_view.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/layout/students_list_view.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/menu/app_menu.xml" value="0.264" />
         <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/mipmap-anydpi-v26/team_writer.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudentsList/app/src/main/res/mipmap-anydpi-v26/team_writer_round.xml" value="0.14635416666666667" />
       </map>
     </option>
   </component>

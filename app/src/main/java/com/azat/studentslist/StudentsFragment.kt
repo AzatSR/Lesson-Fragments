@@ -14,11 +14,15 @@ class StudentsFragment : Fragment() {
     private lateinit var studentsRecyclerView: RecyclerView
 
     val studentsList: List<StudentsAttributs> = listOf(
-        StudentsAttributs(R.drawable.antony, "Антон", "Елистратов", 35, "antony@free.so"),
-        StudentsAttributs(R.drawable.boris, "Борис", "Кузнецов", 38, "boris@greed.gu"),
-        StudentsAttributs(R.drawable.gregory, "Григорий", "Мартынкевич", 21, "gregory@mask.be"),
-        StudentsAttributs(R.drawable.nikky, "Николай", "Степанов", 33, "nikky@koler.cj"),
-        StudentsAttributs(R.drawable.tim, "Тимофей", "Прокопенко", 24, "tim@writer.xw"))
+        StudentsAttributs(R.drawable.antony, "Антон", "Елистратов", 35, "antony@free.so", "UI/UX дизайнер"),
+        StudentsAttributs(R.drawable.boris, "Борис", "Кузнецов", 38, "boris@greed.gu", "Scrum-мастер"),
+        StudentsAttributs(R.drawable.gregory, "Григорий", "Мартынкевич", 21, "gregory@mask.be", "QA-специалист"),
+        StudentsAttributs(R.drawable.nikky, "Николай", "Степанов", 33, "nikky@koler.cj", "Frontend-разработчик"),
+        StudentsAttributs(R.drawable.tim, "Тимофей", "Прокопенко", 24, "tim@writer.xw", "Backend-разработчик"),
+        StudentsAttributs(R.drawable.stepan, "Степан", "Гречанников", 32, "stepanWW@dry.bg", "Embedded-программист"),
+        StudentsAttributs(R.drawable.valerij, "Валерий", "Мирошниченко", 20, "valerchik@vdw.rf", "Системный аналитик"),
+        StudentsAttributs(R.drawable.yurij, "Юрий", "Новиков", 24, "yura@kms.kz", "Android-разработчик")
+    )
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         // Inflate the layout for this fragment: увеличить макет для этого фрагмента
